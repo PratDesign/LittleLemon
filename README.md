@@ -1,2 +1,2 @@
 # LittleLemon
-Created with CodeSandbox
+Created with React
